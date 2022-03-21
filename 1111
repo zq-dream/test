@@ -1,0 +1,37 @@
+Hue Web地址：http://bdxh.ymtc.local:8889/hue/editor?editor=1013751
+Hue Web账户：dg/Wh123456
+
+
+Oracle链接信息：
+-- MIR DEV
+midb01/midb01@mirdevdb
+
+-- MES PROD standby DB
+bd_mesquery/a7qt_o24@standby_mesdb
+
+--MIR PROD DB
+DGQUERY/dgquery_dg2020@mirdb
+
+
+数据抽取平台：
+http://10.22.13.229/
+admin@dtstack.com/DrpEco_2020
+
+
+impala连接：
+http://bdxh.ymtc.local:8889/hue/editor/?type=impala
+DG/Wh123456
+
+
+帆软BI工具：
+http://finebitraining.ymtc.local/webroot/decision
+L3150107/Wh654321
+
+
+MPP连接MySQL连接信息：
+ip:10.22.13.235:19030
+user:root
+database:fineBI
+
+
+10.22.13.55 infa/infa123
